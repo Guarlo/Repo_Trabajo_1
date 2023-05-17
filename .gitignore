@@ -3,6 +3,10 @@
 *.jpg
 *.psd
 
+# Otros #
+###################
+info.txt
+
 # Compiled source #
 ###################
 *.com
