@@ -2,10 +2,11 @@
 ###################
 *.jpg
 *.psd
-
+clear
 # Otros #
 ###################
 info.txt
+apuntes.txt
 
 # Compiled source #
 ###################
